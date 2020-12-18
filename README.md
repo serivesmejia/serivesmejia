@@ -3,6 +3,9 @@
 <a href="https://github.com/serivesmejia/EOCV-Sim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=serivesmejia&repo=EOCV-Sim" />
 </a>
+<a href="https://github.com/serivesmejia/EOCV-Sim-Lite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=serivesmejia&repo=EOCV-Sim-Lite" />
+</a>
 <a href="https://github.com/serivesmejia/DeltaUtils">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=serivesmejia&repo=DeltaUtils" />
 </a>
