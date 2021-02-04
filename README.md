@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=serivesmejia&repo=DeltaUtils&theme=onedark" />
 </a>
 
-# Libraries
+## Libraries
 <a href="https://github.com/serivesmejia/BinaireNBT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=serivesmejia&repo=BinaireNBT&theme=onedark" />
 </a>
@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiGames&repo=Amour2D&theme=onedark" />
 </a>
 
-# Contributed to...
+## Contributed to...
 
 <a href="https://github.com/FTCLib/FTCLib">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FTCLib&repo=FTCLib&theme=onedark" />
