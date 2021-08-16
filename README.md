@@ -1,6 +1,6 @@
 
 ## FTC Projects
-<a href="https://github.com/serivesmejia/EOCV-Sim">
+<a href="https://github.com/deltacv/EOCV-Sim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=serivesmejia&repo=EOCV-Sim&theme=onedark" />
 </a>
 <a href="https://github.com/serivesmejia/DeltaUtils">
