@@ -1,15 +1,15 @@
 
 ## FTC Projects
 <a href="https://github.com/deltacv/EOCV-Sim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=serivesmejia&repo=EOCV-Sim&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deltacv&repo=EOCV-Sim&theme=onedark" />
 </a>
 <a href="https://github.com/serivesmejia/DeltaUtils">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=serivesmejia&repo=DeltaUtils&theme=onedark" />
 </a>
 
 ## Libraries
-<a href="https://github.com/serivesmejia/BinaireNBT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=serivesmejia&repo=BinaireNBT&theme=onedark" />
+<a href="https://github.com/deltacv/AprilTagDesktop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deltacv&repo=AprilTagDesktop&theme=onedark" />
 </a>
 <a href="https://github.com/MaiGames/Amour2D">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiGames&repo=Amour2D&theme=onedark" />
