@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deltacv&repo=AprilTagDesktop&theme=onedark" />
 </a>
 <a href="https://github.com/MaiGames/Amour2D">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiGames&repo=Amour2D&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BackInTwo&repo=Amour2D&theme=onedark" />
 </a>
 
 ## Contributed to...
