@@ -3,7 +3,7 @@
 <a href="https://github.com/deltacv/EOCV-Sim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deltacv&repo=EOCV-Sim&theme=onedark" />
 </a>
-<a href="https://github.com/serivesmejia/DeltaUtils">
+<a href="https://github.com/deltacv/EasyVision">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=serivesmejia&repo=DeltaUtils&theme=onedark" />
 </a>
 
